@@ -35,7 +35,7 @@ If offers slightly higher speed compared to other Python libs, especially for sm
 
 So if you want to use a vast variaety of ciphers and/or achieve the highest possible encryption speed, consider giving it a try.
 
-[zeroize-python]([https://github.com/radumarias/zeroize-python)
+[zeroize-python](https://github.com/radumarias/zeroize-python)
 
 Securely clear secrets from memory. Built on stable Rust primitives which guarantee memory is zeroed using an operation will not be 'optimized away' by the compiler.
 
