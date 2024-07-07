@@ -1,5 +1,3 @@
-# xorio
-
 <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
 
 Passionate about `Rust`, some of my projects:
