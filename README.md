@@ -10,9 +10,11 @@ The purpose of this project is to offer an easy and reliable way to sync files a
 
 ![](website/resources/syncoxiders.png)
 
+<hr />
+
 [rencfs](https://github.com/radumarias/rencfs)
 
-![](website/resources/rencfs-logo2.jpg)
+[![](website/resources/rencfs-logo2.jpg)](https://github.com/radumarias/rencfs)
 
 ![](website/resources/rencfs-gui.png)
 
