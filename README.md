@@ -85,7 +85,7 @@ It has a basic implementation of a filesystem with a single file with basic meth
 
 [aws-lambda-axum-dynamodb](https://github.com/radumarias/aws-lambda-axum-dynamodb)
 
-Simple aws lambda with axum, DynamoDB, API Gateway and CloudWatch
+Simple aws lambda with axum, DynamoDB, API Gateway and CloudWatch.
 
 <hr />
 
@@ -99,7 +99,7 @@ It uses `fuser` crate to expose the system with FUSE.
 
 [python-crypto-benchmark](https://github.com/radumarias/python-crypto-benchmark)
 
-A basic benchmark of multiple Python crypto libs
+A basic benchmark of multiple Python crypto libs.
 
 <hr />
 
