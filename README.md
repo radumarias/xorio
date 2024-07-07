@@ -12,7 +12,7 @@ The purpose of this project is to offer an easy and reliable way to sync files a
 
 [rencfs](https://github.com/radumarias/rencfs)
 
-![](website/resources/rencfs-logo.jpg)
+![](website/resources/rencfs-logo2.jpg)
 
 ![](website/resources/rencfs-gui.png)
 
