@@ -2,7 +2,7 @@
 
 Passionate about `Rust`, some of my projects:
 
-[![](website/resources/syncoxiders-icon-small-2.jpg)](https:syncoxide.rs) [SyncOxiders](https:syncoxide.rs)
+[![](website/resources/syncoxiders-icon-small-2.png)](https:syncoxide.rs) [SyncOxiders](https:syncoxide.rs)
 
 Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust.
 
