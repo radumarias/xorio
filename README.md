@@ -21,7 +21,7 @@ You can use it as CLI or build your custom FUSE implementation with it.
 
 <hr />
 
-[rencfs-desktop](https://github.com/radumarias/rencfs-desktop)
+[![](website/resources/rencfs-logo-20p.png)](https://github.com/radumarias/rencfs) [rencfs-desktop](https://github.com/radumarias/rencfs-desktop)
 
 GUI for `rencfs`
 
@@ -37,7 +37,7 @@ It uses:
 
 <hr />
 
-[rencfs-daemon](https://github.com/radumarias/rencfs-daemon)
+[![](website/resources/rencfs-logo-20p.png)](https://github.com/radumarias/rencfs) [rencfs-daemon](https://github.com/radumarias/rencfs-daemon)
 
 An encrypted file system in Rust that is mounted with `FUSE` on Linux. It can be used to create encrypted directories.  
 It uses rencfs and can be installed as a systemd service and configured via YAML files.  
