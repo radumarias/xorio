@@ -17,7 +17,7 @@ You can then safely backup the encrypted folder on an untrusted server without w
 
 You can use it as CLI or build your custom FUSE implementation with it.
 
-[rencfs_desktop](https://github.com/radumarias/rencfs-desktop)
+[rencfs-desktop](https://github.com/radumarias/rencfs-desktop)
 
 GUI for `rencfs`
 
@@ -29,7 +29,9 @@ It uses:
 `tonic` for `gRPC` communication between GUI and daemon
 `diesel` with `Sqlite` for `ORM`
 
-https://github.com/radumarias/rencfs-daemon
+[![Watch the video](https://img.youtube.com/vi/MkWMS3Qmk1I/0.jpg)](https://youtu.be/MkWMS3Qmk1I)
+
+[rencfs-daemon](https://github.com/radumarias/rencfs-daemon)
 
 An encrypted file system in Rust that is mounted with `FUSE` on Linux. It can be used to create encrypted directories.  
 It uses rencfs and can be installed as a systemd service and configured via YAML files.  
