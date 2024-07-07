@@ -1,6 +1,6 @@
 # xorio
 
-Some of my projects.
+Passionate about Rust, some of my projects:
 
 [syncoxiders](https:syncoxide.rs)
 
