@@ -19,6 +19,8 @@ You can then safely backup the encrypted folder on an untrusted server without w
 
 You can use it as CLI or build your custom FUSE implementation with it.
 
+![](website/resources/rencfs-gui.png)
+
 <hr />
 
 [![](website/resources/rencfs-logo-20p.png)](https://github.com/radumarias/rencfs) [rencfs-desktop](https://github.com/radumarias/rencfs-desktop)
@@ -50,6 +52,8 @@ You can define encrypted directories with their mount points, defined as vaults.
 A Python encryption library implemented in Rust. It supports AEAD with varius ciphers. It uses ring, RustCrypto (and derivates), sodiumoxide and orion to handle encryption.  
 If offers slightly higher speed compared to other Python libs, especially for small chunks of data (especially the Ring provider with AES-GCM ciphers). The API also tries to be easy to use but it's more optimized for speed than usability.  
 So if you want to use a vast variaety of ciphers and/or achieve the highest possible encryption speed, consider giving it a try.
+
+![](website/resources/rencrypt-python.png)
 
 <hr />
 
