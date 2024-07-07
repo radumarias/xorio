@@ -1,6 +1,6 @@
 # xorio
 
-<link rel="shortcut icon" type="image/jpeg" href="website/resources/synapse.jpg">
+<link rel="shortcut icon" type="image/jpg" href="website/resources/synapse.jpg">
 
 Passionate about `Rust`, some of my projects:
 
