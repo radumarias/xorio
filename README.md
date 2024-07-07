@@ -28,7 +28,7 @@ It uses:
 `tonic` for `gRPC` communication between GUI and daemon
 `diesel` with `Sqlite` for `ORM`
 
-[rencrypt-python]([https://github.com/radumarias/rencrypt-python)
+[rencrypt-python](https://github.com/radumarias/rencrypt-python)
 
 A Python encryption library implemented in Rust. It supports AEAD with varius ciphers. It uses ring, RustCrypto (and derivates), sodiumoxide and orion to handle encryption.
 If offers slightly higher speed compared to other Python libs, especially for small chunks of data (especially the Ring provider with AES-GCM ciphers). The API also tries to be easy to use but it's more optimized for speed than usability.
