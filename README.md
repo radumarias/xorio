@@ -1,4 +1,4 @@
-# Passionate about `Rust`. some of my projects
+# Passionate about `Rust`. Some of my projects
 
 [![](website/resources/syncoxiders-icon-16p.png)](https://syncoxide.rs) [SyncOxiders](https://syncoxide.rs)
 
