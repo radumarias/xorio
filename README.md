@@ -1,6 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
-
-Passionate about `Rust`, some of my projects:
+# Passionate about `Rust`. some of my projects
 
 [![](website/resources/syncoxiders-icon-16p.png)](https://syncoxide.rs) [SyncOxiders](https://syncoxide.rs)
 
