@@ -34,6 +34,7 @@ It uses:
 `tonic` for `gRPC` communication between GUI and daemon
 `diesel` with `Sqlite` for `ORM`
 
+You can see a short video:  
 [![Watch the video](https://img.youtube.com/vi/MkWMS3Qmk1I/0.jpg)](https://youtu.be/MkWMS3Qmk1I)
 
 <hr />
