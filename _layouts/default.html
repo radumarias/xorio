@@ -3,6 +3,7 @@
   <head>
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -13,10 +14,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
-  <body style="width:100%; min_width:256px; max_width:1000px; margin:0 auto;">
+  <body>
     <main id="content" role="main">
-      {{ content }}
-      
+      <div class="w3-container">
+        <p>{{ content }}</p>
+      </div>      
     </main>
   </body>
 </html>
