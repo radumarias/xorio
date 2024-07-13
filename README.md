@@ -84,7 +84,7 @@ It has a basic implementation of a filesystem with a single file with basic meth
 
 [aws-lambda-axum-dynamodb](https://github.com/radumarias/aws-lambda-axum-dynamodb)
 
-Simple aws lambda with axum, DynamoDB, API Gateway and CloudWatch.
+Simple AWS lambda with axum, DynamoDB, API Gateway and CloudWatch. It also has a branch how to migrate it to [shuttle.rs](https://shuttle.rs).
 
 <hr />
 
