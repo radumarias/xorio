@@ -105,6 +105,4 @@ A basic benchmark of multiple Python crypto libs.
 
 Checks if the version in Cargo.toml has changed since last time the job runned for a Rust project.
 
-Useful in cases when you you want to automatically perform additional steps like creating a release and deploying/publishing the app if version is changed.  
-Not useful when you create releases manualy and trigger deploy/publish from the release or manually.  
-When the step runs, at the end, it saves in the cache the last commit in repo as since_commit and the next time it runs it checks for version change since that commit.
+Useful in cases when you you want to automatically perform additional steps like creating a release and deploying/publishing the app if version is changed.
