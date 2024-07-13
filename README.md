@@ -34,9 +34,7 @@ It uses:
 `tonic` for `gRPC` communication between GUI and daemon
 `diesel` with `Sqlite` for `ORM`
 
-<iframe width="100%" max-width="1000px" height="auto"
-  src="https://www.youtube.com/embed/MkWMS3Qmk1I">
-</iframe>
+[![Watch the video](https://img.youtube.com/vi/MkWMS3Qmk1I/0.jpg)](https://youtu.be/MkWMS3Qmk1I)
 
 <hr />
 
