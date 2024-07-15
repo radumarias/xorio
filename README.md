@@ -1,6 +1,7 @@
 # Passionate about `Rust`
 
-## This is me:
+## This is me
+
 - [GitHub](https://github.com/radumarias)
 - [LinkedIn](https://www.linkedin.com/in/radumarias)
 - [Email](radumarias@gmail.com)
