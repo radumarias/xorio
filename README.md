@@ -1,4 +1,13 @@
-# Passionate about `Rust`. Some of my projects
+# Passionate about `Rust`.
+
+## This is me:
+- [GitHub](https://github.com/radumarias)
+- [LinkedIn](https://www.linkedin.com/in/radumarias)
+- [email](radumarias@gmail.com)
+- [Reddit](https://www.reddit.com/user/radumarias)
+- [X.com](https://x.com/xorio42)
+
+## Some of my projects
 
 [![](website/resources/syncoxiders-icon-16p.png)](https://syncoxide.rs) [SyncOxiders](https://syncoxide.rs)
 
