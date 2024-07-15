@@ -1,11 +1,11 @@
-# Passionate about `Rust`.
+# Passionate about `Rust`
 
 ## This is me:
 - [GitHub](https://github.com/radumarias)
 - [LinkedIn](https://www.linkedin.com/in/radumarias)
-- [email](radumarias@gmail.com)
+- [Email](radumarias@gmail.com)
 - [Reddit](https://www.reddit.com/user/radumarias)
-- [X.com](https://x.com/xorio42)
+- [X](https://x.com/xorio42)
 
 ## Some of my projects
 
