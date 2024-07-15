@@ -4,7 +4,7 @@
 
 - [GitHub](https://github.com/radumarias)
 - [LinkedIn](https://www.linkedin.com/in/radumarias)
-- [Email](radumarias@gmail.com)
+- [Email](mailto:radumarias@gmail.com)
 - [Reddit](https://www.reddit.com/user/radumarias)
 - [X](https://x.com/xorio42)
 
