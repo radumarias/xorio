@@ -1,6 +1,6 @@
 # Passionate about `Rust`
 
-<img src="website/resources/header2.png" style = "width: 100%; max-width: 1000px; height: auto;">
+<img src="website/resources/header3.png" style = "width: 100%; max-width: 1000px; height: auto;">
 
 ## This is me
 
