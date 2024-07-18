@@ -1,5 +1,7 @@
 # Passionate about `Rust`
 
+<img src="website/resources/header.png" style = "width: 100%; max-width: 1000px; height: auto;">
+
 ## This is me
 
 - [Email](mailto:hello@xorio.rs)
