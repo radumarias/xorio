@@ -2,9 +2,9 @@
 
 ## This is me
 
+- [Email](mailto:hello@xorio.rs)
 - [GitHub](https://github.com/radumarias)
 - [LinkedIn](https://www.linkedin.com/in/radumarias)
-- [Email](mailto:radumarias@gmail.com)
 - [Reddit](https://www.reddit.com/user/radumarias)
 - [X](https://x.com/xorio42)
 
