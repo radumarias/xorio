@@ -9,7 +9,7 @@
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xorio42)
 - [![GitHub User's stars](https://img.shields.io/github/stars/radumarias)](https://github.com/radumarias)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radumarias)
-- [![Static Badge](https://img.shields.io/badge/reddit-%23FF4500)])(https://www.reddit.com/user/radumarias)
+- [![Static Badge](https://img.shields.io/badge/reddit-%23FF4500)]](https://www.reddit.com/user/radumarias)
 - [![X (formerly Twitter)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxorio42)](https://x.com/xorio42)
 
 ## Some of my projects
