@@ -4,11 +4,13 @@
 
 ## This is me
 
-- [Email](mailto:hello@xorio.rs)
-- [GitHub](https://github.com/radumarias)
-- [LinkedIn](https://www.linkedin.com/in/radumarias)
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xorio.rs)
+- [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@xorio42:matrix.org)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xorio42)
+- [![GitHub User's stars](https://img.shields.io/github/stars/radumarias)](https://github.com/radumarias)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/radumarias](https://www.linkedin.com/in/radumarias))
 - [Reddit](https://www.reddit.com/user/radumarias)
-- [X](https://x.com/xorio42)
+- [![X (formerly Twitter)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxorio42)](https://x.com/xorio42)
 
 ## Some of my projects
 
