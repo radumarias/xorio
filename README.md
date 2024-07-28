@@ -15,6 +15,10 @@
 
 ## Some of my projects
 
+[rfs](https://github.com/radumarias/rfs)
+
+Distributed filesystem written in Rust. Intention is to be a learning projects for the concepts involved in such a system.
+
 [![](website/resources/syncoxiders-icon-16p.png)](https://syncoxide.rs) [SyncOxiders](https://syncoxide.rs)
 
 Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust.
