@@ -1,4 +1,4 @@
-# Passionate about `Rust`
+# Passionate about `Rust`, and all STEM
 
 <img src="website/resources/header2.png" style = "width: 100%; max-width: 1000px; height: auto;">
 
