@@ -15,7 +15,7 @@
 
 # If you want to contribute to open source projects
 
-1. An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories [GitHub](https://github.com/radumarias/rencfs). Read more about [how to contribute](https://github.com/radumarias/rencfs/blob/main/CONTRIBUTING.md)
+1. An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories [GitHub](https://github.com/radumarias/rencfs). Read more about [how to contribute](https://github.com/radumarias/rencfs/blob/main/CONTRIBUTING.md), this applies to all projects
 2. GUI for the above [GitHub](https://github.com/radumarias/rencfs-desktop)
 3. And a daemon [GitHub](https://github.com/radumarias/rencfs-daemon)
 4. Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust [GitHub](https://github.com/radumarias/syncoxiders)
