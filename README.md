@@ -144,7 +144,7 @@ Google Drive client for Linux written in Rust exposed as FUSE filesystem.
 
 [in-mem-fs](https://github.com/radumarias/in-mem-fs)
 
-A very basic implementation of an in-mem filesystem in Rust exposed with FUSE on Linux
+A very basic implementation of an in-mem filesystem in Rust exposed with FUSE on Linux.
 
 <hr />
 
