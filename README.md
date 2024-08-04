@@ -132,12 +132,6 @@ A basic benchmark of multiple Python crypto libs.
 
 <hr />
 
-[action-check-version-changed-rust](https://github.com/radumarias/action-check-version-changed-rust)
-
-Checks if the version in Cargo.toml has changed since last time the job runned for a Rust project.
-
-Useful in cases when you you want to automatically perform additional steps like creating a release and deploying/publishing the app if version is changed.
-
 [aws-lambda-axum-dynamodb](https://github.com/radumarias/aws-lambda-axum-dynamodb)
 
 Sample app for `AWS Lambda` with `axum`, `DynamoDB`, `API Gateway` and `CloudWatch`.
@@ -161,6 +155,12 @@ A template for a Rust project using fuse3.
 It has a basic implementation of a filesystem with a single file with basic methods for a fs and the wrapper FUSE implementation.
 
 <hr />
+
+[action-check-version-changed-rust](https://github.com/radumarias/action-check-version-changed-rust)
+
+Checks if the version in Cargo.toml has changed since last time the job runned for a Rust project.
+
+Useful in cases when you you want to automatically perform additional steps like creating a release and deploying/publishing the app if version is changed.
 
 [python-crypto-benchmark](https://github.com/radumarias/python-crypto-benchmark)
 
