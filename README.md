@@ -17,12 +17,20 @@
 # If you want to contribute to open source projects
 
 1. An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories [GitHub](https://github.com/radumarias/rencfs). Read more about [how to contribute](https://github.com/radumarias/rencfs/blob/main/CONTRIBUTING.md), this applies to all projects
-2. GUI for the above [GitHub](https://github.com/radumarias/rencfs-desktop)
-3. And a daemon [GitHub](https://github.com/radumarias/rencfs-daemon)
-4. Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust [GitHub](https://github.com/radumarias/syncoxiders)
-5. Distributed filesystem written in Rust. Intention is to be a learning project for the concepts and implementing them [GitHub](https://github.com/radumarias/rfs). And a [series](https://medium.com/@xorio42/list/distributed-filesystem-written-in-rust-317d40f38304) of articles about building it
-6. A Python encryption library implemented in Rust. It supports AEAD with AES-GCM and ChaCha20Poly1305. It uses ring crate to handle encryption [GitHub](https://github.com/radumarias/rencrypt-python)
-7. Securely clear secrets from memory. Built on stable Rust primitives which guarantee memory is zeroed using an operation will not be "optimized away" by the compiler [GitHub](https://github.com/radumarias/zeroize-python)
+2. GUI in Rust with egui for the above [GitHub](https://github.com/radumarias/rencfs-desktop)
+3. GUI in Kotlin Multiplatform with Compose for the above [GitHub](https://github.com/radumarias/rencfs-kotlin)
+4. And a daemon [GitHub](https://github.com/radumarias/rencfs-daemon)
+5. Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust [GitHub](https://github.com/radumarias/syncoxiders)
+6. Distributed filesystem written in Rust. Intention is to be a learning project for the concepts and implementing them [GitHub](https://github.com/radumarias/rfs). And a [series](https://medium.com/@xorio42/list/distributed-filesystem-written-in-rust-317d40f38304) of articles about building it
+7. A Python encryption library implemented in Rust. It supports AEAD with AES-GCM and ChaCha20Poly1305. It uses ring crate to handle encryption [GitHub](https://github.com/radumarias/rencrypt-python)
+8. Securely clear secrets from memory. Built on stable Rust primitives which guarantee memory is zeroed using an operation will not be "optimized away" by the compiler [GitHub](https://github.com/radumarias/zeroize-python)
+9. A GDrive client in Rust using fuse3 [GitHub](https://github.com/radumarias/gdrive-rs)
+10. A template for a Rust project using fuse3. It has a basic implementation of a filesystem with a single file with basic methods for a fs and the wrapper FUSE implementation. [GitHub](https://github.com/radumarias/rust-fuse3-template)
+11. Sample app for AWS Lambda with axum, DynamoDB, API Gateway and CloudWatch [GitHub](https://github.com/radumarias/aws-lambda-axum-dynamodb)
+12. A very basic implementation of an in-mem filesystem in Rust exposed with FUSE on Linux. It uses fuser crate to expose the system with FUSE [GitHub](https://github.com/radumarias/in-mem-fs)
+13. A basic benchmark of multiple Python crypto libs [GitHub](https://github.com/radumarias/python-crypto-benchmark)
+14. Checks if the version in Cargo.toml has changed since last time the job runned for a Rust project. Useful in cases when you you want to automatically perform additional steps like creating a release and deploying/publishing the app if version is changed. [GitHub](https://github.com/radumarias/action-check-version-changed-rust)
+
 
 ## Some of my projects
 
