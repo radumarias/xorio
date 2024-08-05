@@ -114,7 +114,7 @@ It has a basic implementation of a filesystem with a single file with basic meth
 
 [aws-lambda-axum-dynamodb](https://github.com/radumarias/aws-lambda-axum-dynamodb)
 
-Simple AWS lambda with axum, DynamoDB, API Gateway and CloudWatch. It also has a branch how to migrate it to [shuttle.rs](https://shuttle.rs).
+Sample app for `AWS Lambda` with `axum`, `DynamoDB`, `API Gateway` and `CloudWatch`.
 
 <hr />
 
@@ -132,36 +132,8 @@ A basic benchmark of multiple Python crypto libs.
 
 <hr />
 
-[aws-lambda-axum-dynamodb](https://github.com/radumarias/aws-lambda-axum-dynamodb)
-
-Sample app for `AWS Lambda` with `axum`, `DynamoDB`, `API Gateway` and `CloudWatch`.
-
-<hr />
-
-[gdrive-rs](https://github.com/radumarias/gdrive-rs)
-
-Google Drive client for Linux written in Rust exposed as FUSE filesystem.
-
-[in-mem-fs](https://github.com/radumarias/in-mem-fs)
-
-A very basic implementation of an in-mem filesystem in Rust exposed with FUSE on Linux.
-
-<hr />
-
-[rust-fuse3-template](https://github.com/radumarias/rust-fuse3-template)
-
-A template for a Rust project using fuse3.
-
-It has a basic implementation of a filesystem with a single file with basic methods for a fs and the wrapper FUSE implementation.
-
-<hr />
-
 [action-check-version-changed-rust](https://github.com/radumarias/action-check-version-changed-rust)
 
 Checks if the version in Cargo.toml has changed since last time the job runned for a Rust project.
 
 Useful in cases when you you want to automatically perform additional steps like creating a release and deploying/publishing the app if version is changed.
-
-[python-crypto-benchmark](https://github.com/radumarias/python-crypto-benchmark)
-
-A basic benchmark of multiple Python crypto libs.
