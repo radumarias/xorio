@@ -121,9 +121,9 @@ It has a basic implementation of a filesystem with a single file with basic meth
 
 <hr />
 
-[aws-lambda-axum-dynamodb](https://github.com/radumarias/aws-lambda-axum-dynamodb)
+[aws-lambda-axum-dynamodb-template](https://github.com/radumarias/aws-lambda-axum-dynamodb-template)
 
-Sample app for `AWS Lambda` with `axum`, `DynamoDB`, `API Gateway` and `CloudWatch`.
+Template app with `Aws Lambda`, `axum`, `DynamoDB`, `API Gateway` and `CloudWatch`.
 
 <hr />
 
