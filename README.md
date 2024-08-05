@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xorio.rs)
 [![GitHub User's stars](https://img.shields.io/github/stars/radumarias)](https://github.com/radumarias)
+<a href="https://join.slack.com/t/slack-rag8921/shared_invite/zt-2o4l1tdkk-VJeWIbO2p6zgeafDISPHbQ"><img src="website/resources/slack.png" style = "width: 87px; height: 20px;"/></a>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xorio42)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@xorio42:matrix.org)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xorio42)
