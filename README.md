@@ -38,7 +38,7 @@
 
 [rfs](https://github.com/radumarias/rfs)
 
-Distributed filesystem written in Rust. The intention is to be a learning project for the concepts involved in building such a system.
+Distributed filesystem written in Rust. The intention is to be a learning and experimental project for the concepts involved in building such a system.
 
 [![](website/resources/syncoxiders-icon-16p.png)](https://syncoxide.rs) [SyncOxiders](https://syncoxide.rs)
 
