@@ -48,6 +48,8 @@ The blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-buil
 
 <img src="website/resources/rencfs-gui.png" style = "width: 100%; max-width: 1000px; height: auto;">
 
+[![Watch the video](https://img.youtube.com/vi/MkWMS3Qmk1I/0.jpg)](https://youtu.be/MkWMS3Qmk1I)
+
 <hr />
 
 [rfs](https://github.com/radumarias/rfs)
