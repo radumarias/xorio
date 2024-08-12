@@ -38,7 +38,7 @@
 
 [rfs](https://github.com/radumarias/rfs)
 
-Distributed filesystem written in Rust. The intention is to be a learning and experimental project for the concepts involved in building such a system. The blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-building-an-encrypted-filesystem-828492b94c23).
+Distributed filesystem written in Rust. The intention is to be a learning and experimental project for the concepts involved in building such a system. The blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-building-distributed-filesystem-317d40f38304).
 
 [![](website/resources/syncoxiders-icon-16p.png)](https://syncoxide.rs) [SyncOxiders](https://syncoxide.rs)
 
@@ -57,6 +57,8 @@ An encrypted file system that is mounted with `FUSE` on Linux. It can be used to
 You can then safely backup the encrypted folder on an untrusted server without worrying about the data being exposed. You can also store it in any cloud storage like Google Drive, Dropbox, etc. and have it synced across multiple devices.
 
 You can use it as CLI or build your custom FUSE implementation with it.
+
+The blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-building-an-encrypted-filesystem-828492b94c23).
 
 <img src="website/resources/rencfs-gui.png" style = "width: 100%; max-width: 1000px; height: auto;">
 
