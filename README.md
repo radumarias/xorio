@@ -36,20 +36,6 @@
 
 ## Some of my projects
 
-[rfs](https://github.com/radumarias/rfs)
-
-Distributed filesystem written in Rust. The intention is to be a learning and experimental project for the concepts involved in building such a system. The blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-building-distributed-filesystem-317d40f38304).
-
-[![](website/resources/syncoxiders-icon-16p.png)](https://syncoxide.rs) [SyncOxiders](https://syncoxide.rs)
-
-Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust.
-
-The purpose of this project is to offer an easy and reliable way to sync files and emails between multiple providers and share files between multiple storage providers (like Google Drive, Dropbox, S3, SFTP servers, ...) and local files. Also simple way for backup of your files and emails and encryption. It offers real time sync (from simple Copy One-way to Two-way Sync) all handled in the cloud, without the explicit need of local clients.
-
-<img src="website/resources/syncoxiders.png" style = "width: 100%; max-width: 1000px; height: auto;">
-
-<hr />
-
 [![](website/resources/rencfs-logo-20p.png)](https://github.com/radumarias/rencfs) [rencfs](https://github.com/radumarias/rencfs)
 
 An encrypted file system that is mounted with `FUSE` on Linux. It can be used to create encrypted directories.
@@ -61,6 +47,20 @@ You can use it as CLI or build your custom FUSE implementation with it.
 The blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-building-an-encrypted-filesystem-828492b94c23).
 
 <img src="website/resources/rencfs-gui.png" style = "width: 100%; max-width: 1000px; height: auto;">
+
+<hr />
+
+[rfs](https://github.com/radumarias/rfs)
+
+Distributed filesystem written in Rust. The intention is to be a learning and experimental project for the concepts involved in building such a system. The blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-building-distributed-filesystem-317d40f38304).
+
+[![](website/resources/syncoxiders-icon-16p.png)](https://syncoxide.rs) [SyncOxiders](https://syncoxide.rs)
+
+Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust.
+
+The purpose of this project is to offer an easy and reliable way to sync files and emails between multiple providers and share files between multiple storage providers (like Google Drive, Dropbox, S3, SFTP servers, ...) and local files. Also simple way for backup of your files and emails and encryption. It offers real time sync (from simple Copy One-way to Two-way Sync) all handled in the cloud, without the explicit need of local clients.
+
+<img src="website/resources/syncoxiders.png" style = "width: 100%; max-width: 1000px; height: auto;">
 
 <hr />
 
