@@ -16,7 +16,7 @@
 [![X (formerly Twitter)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxorio42)](https://x.com/xorio42)
 
 > [!TIP]  
-> **If you want to contribute to open source projects and learn `Rust`, `gRPC`, `RESR API`, `tonic`, `diesel`, `sqlite`, `SurrealDB`, `tikv`, `Raft` protocol, `Mainline DHT`, `BitTorrent`, `QUIC`, `FUSE`, `Cryptography`, `Zero-copy`, `Apache Arrow`, `Flight`, `RDMA`, `Sharding algorithms`, `egui`, `Kotlin`, `Java`, `Spark`, `Flink`, `Airflow` and `Python`.**
+> **If you want to contribute to open source projects and learn `Rust`, `gRPC`, `REST API`, `tonic`, `diesel`, `sqlite`, `SurrealDB`, `tikv`, `Raft` protocol, `Mainline DHT`, `BitTorrent`, `QUIC`, `FUSE`, `Cryptography`, `Zero-copy`, `Apache Arrow`, `Flight`, `RDMA`, `Sharding algorithms`, `egui`, `Kotlin`, `Java`, `Spark`, `Flink`, `Airflow` and `Python`.**
 
 1. An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories [rencfs](https://github.com/radumarias/rencfs) and the blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-building-an-encrypted-filesystem-828492b94c23). Read more about [how to contribute](https://github.com/radumarias/rencfs/blob/main/CONTRIBUTING.md), these applies to all projects
 2. GUI in Rust with egui for the above [rencfs-desktop](https://github.com/radumarias/rencfs-desktop)
