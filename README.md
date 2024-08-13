@@ -24,14 +24,15 @@
 4. And a daemon [rencfs-daemon](https://github.com/radumarias/rencfs-daemon)
 5. Cloud file and email Sync, file Sharing, Backup and Encryption solution written in Rust [syncoxiders](https://github.com/radumarias/syncoxiders)
 6. Distributed filesystem written in Rust. Intention is to be a learning project for the concepts and implementing them [rfs](https://github.com/radumarias/rfs). And the blog [series](https://medium.com/@xorio42/list/distributed-filesystem-written-in-rust-317d40f38304) of articles about building it
-7. A Python encryption library implemented in Rust. It supports AEAD with AES-GCM and ChaCha20Poly1305. It uses ring crate to handle encryption [rencrypt-python](https://github.com/radumarias/rencrypt-python)
-8. Securely clear secrets from memory. Built on stable Rust primitives which guarantee memory is zeroed using an operation will not be "optimized away" by the compiler [zeroize-python](https://github.com/radumarias/zeroize-python)
-9. A GDrive client in Rust using fuse3 [gdrive-rs](https://github.com/radumarias/gdrive-rs)
-10. A template for a Rust project using fuse3. It has a basic implementation of a filesystem with a single file with basic methods for a fs and the wrapper FUSE implementation. [rust-fuse3-template](https://github.com/radumarias/rust-fuse3-template)
-11. Sample app for AWS Lambda with axum, DynamoDB, API Gateway and CloudWatch [aws-lambda-axum-dynamodb-template](https://github.com/radumarias/aws-lambda-axum-dynamodb-template)
-12. A very basic implementation of an in-mem filesystem in Rust exposed with FUSE on Linux. It uses fuser crate to expose the system with FUSE [in-mem-fs](https://github.com/radumarias/in-mem-fs)
-13. A basic benchmark of multiple Python crypto libs [python-crypto-benchmark](https://github.com/radumarias/python-crypto-benchmark)
-14. Checks if the version in Cargo.toml has changed since last time the job runned for a Rust project. Useful in cases when you you want to automatically perform additional steps like creating a release and deploying/publishing the app if version is changed. [action-check-version-changed-rust](https://github.com/radumarias/action-check-version-changed-rust)
+7. Operating system optimized for hosting a database system, taking advantage of new technologies and benefiting of the new hardware optimizations [dbos](https://github.com/radumarias/dbos)
+8. A Python encryption library implemented in Rust. It supports AEAD with AES-GCM and ChaCha20Poly1305. It uses ring crate to handle encryption [rencrypt-python](https://github.com/radumarias/rencrypt-python)
+9. Securely clear secrets from memory. Built on stable Rust primitives which guarantee memory is zeroed using an operation will not be "optimized away" by the compiler [zeroize-python](https://github.com/radumarias/zeroize-python)
+10. A GDrive client in Rust using fuse3 [gdrive-rs](https://github.com/radumarias/gdrive-rs)
+11. A template for a Rust project using fuse3. It has a basic implementation of a filesystem with a single file with basic methods for a fs and the wrapper FUSE implementation. [rust-fuse3-template](https://github.com/radumarias/rust-fuse3-template)
+12. Sample app for AWS Lambda with axum, DynamoDB, API Gateway and CloudWatch [aws-lambda-axum-dynamodb-template](https://github.com/radumarias/aws-lambda-axum-dynamodb-template)
+13. A very basic implementation of an in-mem filesystem in Rust exposed with FUSE on Linux. It uses fuser crate to expose the system with FUSE [in-mem-fs](https://github.com/radumarias/in-mem-fs)
+14. A basic benchmark of multiple Python crypto libs [python-crypto-benchmark](https://github.com/radumarias/python-crypto-benchmark)
+15. Checks if the version in Cargo.toml has changed since last time the job runned for a Rust project. Useful in cases when you you want to automatically perform additional steps like creating a release and deploying/publishing the app if version is changed. [action-check-version-changed-rust](https://github.com/radumarias/action-check-version-changed-rust)
 
 
 ## Some of my projects
