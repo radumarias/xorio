@@ -53,7 +53,7 @@ Video
 
 <hr />
 
-[rfs](https://github.com/radumarias/rfs)
+[![](website/resources/rfs.png)](https://github.com/radumarias/rfs) [rfs](https://github.com/radumarias/rfs)
 
 Distributed filesystem written in Rust. The intention is to be a learning and experimental project for the concepts involved in building such a system. The blog [series](https://medium.com/@xorio42/list/the-hitchhikers-guide-to-building-distributed-filesystem-317d40f38304).
 
