@@ -93,7 +93,7 @@ You can define encrypted directories with their mount points, defined as vaults.
 
 <hr />
 
-[![](website/resources/dbos.jpeg)](https://github.com/radumarias/dbos) [dbos](https://github.com/radumarias/dbos)
+[![](website/resources/dbos.png)](https://github.com/radumarias/dbos) [dbos](https://github.com/radumarias/dbos)
 
 This is an operating system optimized for hosting a database system, taking advantage of new technologies and benefiting of the new hardware optimizations. The operating system will be designed to run a single workload, a database system, using the minimum possible resources for the operating system itself. The database system will be executed in kernel space, to avoid the overhead of context switching between user space and kernel space.
 
