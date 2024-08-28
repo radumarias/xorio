@@ -4,6 +4,7 @@
 
 ## This is me
 
+[![committers.top badge](https://user-badge.committers.top/romania/radumarias.svg)](https://user-badge.committers.top/romania/radumarias)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xorio.rs)
 [![GitHub User's stars](https://img.shields.io/github/stars/radumarias)](https://github.com/radumarias)
 <a href="https://join.slack.com/t/slack-rag8921/shared_invite/zt-2o4l1tdkk-VJeWIbO2p6zgeafDISPHbQ"><img src="website/resources/slack.png" style = "width: 87px; height: 20px;"/></a>
@@ -14,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radumarias)
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500)](https://www.reddit.com/user/radumarias)
 [![X (formerly Twitter)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxorio42)](https://x.com/xorio42)
-[![committers.top badge](https://user-badge.committers.top/romania/USERNAME.svg)](https://user-badge.committers.top/romania/USERNAME)
 
 > [!TIP]  
 > **If you want to contribute to open source projects and learn `Rust`, `gRPC`, `REST API`, `tonic`, `diesel`, `sqlite`, `SurrealDB`, `tikv`, `Raft` protocol, `Mainline DHT`, `BitTorrent`, `QUIC`, `FUSE`, `Cryptography`, `Zero-copy`, `Apache Arrow`, `Flight`, `RDMA`, `Sharding algorithms`, `egui`, `Kotlin Multiplatform`, `Java`, `Spark`, `Flink`, `Airflow` and `Python`.**
