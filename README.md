@@ -5,6 +5,7 @@
 ## This is me
 
 [![committers.top badge](https://user-badge.committers.top/romania/radumarias.svg)](https://user-badge.committers.top/romania/radumarias)
+![Radumarias's GitHub stats](https://github-readme-stats.vercel.app/api?username=radumarias&count_private=true&show_icons=true&theme=default)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xorio.rs)
 [![GitHub User's stars](https://img.shields.io/github/stars/radumarias)](https://github.com/radumarias)
 <a href="https://join.slack.com/t/slack-rag8921/shared_invite/zt-2o4l1tdkk-VJeWIbO2p6zgeafDISPHbQ"><img src="website/resources/slack.png" style = "width: 87px; height: 20px;"/></a>
