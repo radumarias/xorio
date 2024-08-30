@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xorio42)
 [![Discord](https://img.shields.io/discord/1236855443486277653?style=flat&label=Discord%20xorio42)](https://discord.gg/4c3zFfck)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radumarias)
-[![Reddit](https://img.shields.io/badge/reddit-%23FF4500)](https://www.reddit.com/user/radumarias)
+[![Reddit](https://www.reddit.com/u/xorio42)](https://www.reddit.com/user/radumarias)
 [![X (formerly Twitter)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxorio42)](https://x.com/xorio42)
 
 <p align="center">
