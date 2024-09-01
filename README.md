@@ -4,6 +4,8 @@
 
 ## This is me
 
+[5th most active](https://committers.top/romania) GitHub user in Romania :) And #1 for Rust language, as the ones above me are not developing in Rust.
+
 [![committers.top badge](https://user-badge.committers.top/romania/radumarias.svg)](https://user-badge.committers.top/romania/radumarias)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@xorio.rs)
 [![GitHub User's stars](https://img.shields.io/github/stars/radumarias)](https://github.com/radumarias)
