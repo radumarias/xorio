@@ -4,7 +4,7 @@
 
 ## This is me
 
-[5th most active](https://committers.top/romania) GitHub user in Romania  
+[5th most active](https://committers.top/romania) GitHub user in Romania.  
 And #1 for Rust language, as the ones above me are not developing in Rust.
 
 [![committers.top badge](https://user-badge.committers.top/romania/radumarias.svg)](https://user-badge.committers.top/romania/radumarias)
