@@ -14,7 +14,7 @@ And #1 for Rust language, as the ones above me are not developing in Rust.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xorio42)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@xorio42:matrix.org)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xorio42)
-[![Discord](https://img.shields.io/discord/1236855443486277653?style=flat&label=Discord%20xorio42)](https://discord.gg/4c3zFfck)
+[!![Discord](https://img.shields.io/discord/1287407534394835095)](https://discord.gg/WqRs5w8y)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radumarias)
 <a href="https://www.reddit.com/u/xorio42"><img src="website/resources/reddit2.png" style = "width: 87px; height: 20px;"/></a>
 [![X (formerly Twitter)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxorio42)](https://x.com/xorio42)
