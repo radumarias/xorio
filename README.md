@@ -47,7 +47,7 @@ And #1 for Rust language, as the ones above me are not developing in Rust.
 
 ## Some of my projects
 
-[![](website/resources/rencfs-logo-20p.png)](https://github.com/radumarias/rencfs) [rencfs](https://github.com/radumarias/rencfs)
+[![](website/resources/rencfs-logo-20p-2.png)](https://github.com/radumarias/rencfs) [rencfs](https://github.com/radumarias/rencfs)
 
 An encrypted file system that is mounted with `FUSE` on Linux. It can be used to create encrypted directories.
 
