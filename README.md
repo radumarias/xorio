@@ -34,7 +34,7 @@ And #1 for Rust language, as the ones above me are not developing in Rust.
 6. Distributed filesystem written in Rust. Intention is to be a learning project for the concepts and implementing them [rfs](https://github.com/radumarias/rfs). And the blog [series](https://medium.com/@xorio42/list/distributed-filesystem-written-in-rust-317d40f38304) of articles about building it
 7. Operating system optimized for hosting a database system, taking advantage of new technologies and benefiting of the new hardware optimizations [dbos](https://github.com/radumarias/dbos)
 8. Virtualization for GPU that allows you to run local GPU apps and the code is actually ran in the cloud, keeping your data local, without changing your app, at least not much [rvirt-gpu](https://github.com/radumarias/rvirt-gpu)
-9. "Your wish is my command". A distributed executor service. [aladdin-executor](https://github.com/radumarias/aladdin-executor)
+9. "Your wish is my command". A distributed executor service. [genie-executor](https://github.com/radumarias/genie-executor)
 10. A Python encryption library implemented in Rust. It supports AEAD with AES-GCM and ChaCha20Poly1305. It uses ring crate to handle encryption [rencrypt-python](https://github.com/radumarias/rencrypt-python)
 11. Securely clear secrets from memory. Built on stable Rust primitives which guarantee memory is zeroed using an operation will not be "optimized away" by the compiler [zeroize-python](https://github.com/radumarias/zeroize-python)
 12. A GDrive client in Rust using fuse3 [gdrive-rs](https://github.com/radumarias/gdrive-rs)
