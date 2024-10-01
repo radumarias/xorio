@@ -18,6 +18,7 @@ And #1 for Rust language, as the ones above me are not developing in Rust.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radumarias)
 <a href="https://www.reddit.com/u/xorio42"><img src="website/resources/reddit2.png" style = "width: 87px; height: 20px;"/></a>
 [![X (formerly Twitter)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxorio42)](https://x.com/xorio42)
+[Resume](docs/Resume-Radu-Marias.pdf) [Cover letter](docs/cover-letter.pdf)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=radumarias&count_private=true&show_icons=true&theme=default" alt="Radumarias's GitHub stats" />
