@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Basic SEO -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Page title and description -->
+    <title>Passionate about Rust, and all STEM | XORIO homepage</title>
+    <meta
+      name="description"
+      content="XORIO offers expert Rust development services, specializing in high-performance systems, web services, and open-source collaboration. Explore innovative Rust projects with us."
+    />
+
+    <!-- Open Graph meta tags for social media sharing -->
+    <meta property="og:title" content="XORIO - Passionate about Rust & STEM" />
+    <meta
+      property="og:description"
+      content="XORIO is dedicated to expert Rust development and open-source innovation. Learn more about our high-performance solutions and collaborative projects."
+    />
+    <meta property="og:image" content="path_to_image.png" />
+    <meta property="og:url" content="https://xorio.rs" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card for social media optimization -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="XORIO - Passionate about Rust & STEM" />
+    <meta
+      name="twitter:description"
+      content="Explore XORIO's expertise in Rust development and our open-source contributions."
+    />
+    <meta name="twitter:image" content="path_to_image.png" />
+
+    <!-- Keywords (while not a ranking factor anymore, still useful for some crawlers) -->
+    <meta
+      name="keywords"
+      content="Rust, Rust Development, Open-Source, High-Performance Systems, Web Services, STEM, Embedded Solutions, GitHub"
+    />
+
+    <!-- Canonical link to avoid duplicate content -->
+    <link rel="canonical" href="https://xorio.rs" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+
+    <!-- Robots meta tag to guide indexing -->
+    <meta name="robots" content="index, follow" />
+  </head>
+
+  <body>
+    <!-- navbar -->
+    <nav>
+      <div class="logo">
+        <h1><img src="logo.png" alt="XORIO Company Logo" /></h1>
+      </div>
+      <div class="navbar">
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#roadmap">Contributions</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li>
+            <button id="theme-toggle" class="theme-toggle">
+              <i class="fas fa-sun"></i>
+            </button>
+          </li>
+        </ul>
+      </div>
+
+      <div class="menu">
+        <span class="sp1"></span>
+        <span class="sp2"></span>
+        <span class="sp3"></span>
+      </div>
+    </nav>
+
+    <!-- --home -->
+
+    <section id="home">
+      <div class="flex">
+        <h1>
+          Passionate about Rust, <br />
+          and all STEM
+        </h1>
+      </div>
+
+      <div class="scroll-to-top">
+        <a href="#home" aria-label="Back to top">
+          <i class="fas fa-angle-double-up"></i>
+        </a>
+      </div>
+    </section>
+
+    <!-- about -->
+
+    <section id="about">
+      <div class="image">
+        <img src="About.jpg" alt="About XORIO - Rust Development Team" />
+      </div>
+      <div class="info">
+        <h1>XORIO: Empowering Your Vision with Expert Rust Development</h1>
+        <p>
+          At XORIO, we specialize in innovative, open-source solutions built on
+          the power of Rust, the fastest-growing programming language. Our
+          commitment to collaboration and transparency drives us to deliver
+          cutting-edge projects.
+        </p>
+        <button
+          onclick="window.open('https://calendly.com/hello-XORIO', '_blank')"
+        >
+          Book A Meeting Now!
+        </button>
+      </div>
+    </section>
+
+    <!-- services -->
+
+    <section id="services">
+      <div class="service-box ser1">
+        <p><i class="fas fa-cog"></i></p>
+        <h1>High-Performance Systems Development</h1>
+      </div>
+      <div class="service-box ser2">
+        <p><i class="fas fa-server"></i></p>
+        <h1>Robust Web Services</h1>
+      </div>
+      <div class="service-box ser3">
+        <p><i class="fas fa-robot"></i></p>
+        <h1>Secure and Efficient Rust Applications</h1>
+      </div>
+      <div class="service-box ser4">
+        <p><i class="fas fa-code-branch"></i></p>
+        <h1>Open-Source Collaboration</h1>
+      </div>
+    </section>
+
+    <!-- status  -->
+
+    <section id="Status">
+      <h1>
+        We are the
+        <span
+          ><i
+            ><b
+              ><a target="_blank" href="https://committers.top/romania">
+                5th most active</a
+              ></b
+            ></i
+          ></span
+        >
+        GitHub user in the country
+      </h1>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=radumarias&count_private=true&show_icons=true&theme=default"
+        alt=""
+      />
+
+      <h2><a href="Docs/Resume-Radu-Marias.pdf" target="_blank">Resume</a> & <a href="Docs/cover-letter.pdf" target="_blank">Cover Letter</a></h2>
+      <p class="h2">Discover the professional journey and personalized letter of Xorio's visionary.</p>
+      
+    </section>
+
+    <!-- roadmap -->
+
+    <section id="roadmap" class="road">
+      <h1>Open Source Roadmap</h1>
+      <div class="roadmap-item">
+        <h2>Contribute to Rust Projects</h2>
+        <p>
+          If you want to contribute to open source projects and learn Rust,
+          gRPC, REST API, tonic, diesel, sqlite, SurrealDB, tikv, and more.
+        </p>
+      </div>
+      <div class="roadmap-item">
+        <h2>Encrypted File System</h2>
+        <p>
+          An encrypted file system written in Rust that is mounted with FUSE on
+          Linux. It was the crate of the week in Aug 2024.
+        </p>
+      </div>
+      <div class="roadmap-item">
+        <h2>Distributed Filesystem</h2>
+        <p>
+          A learning project for distributed filesystem concepts. Articles about
+          building it will be provided.
+        </p>
+      </div>
+      <div class="roadmap-item">
+        <h2>GPU Virtualization</h2>
+        <p>
+          Virtualization for GPU that allows you to run local GPU apps while
+          keeping data local, with minimal changes to your app.
+        </p>
+      </div>
+      <div class="roadmap-item">
+        <h2>Python Encryption Library</h2>
+        <p>
+          A Python encryption library implemented in Rust supporting AEAD with
+          AES-GCM and ChaCha20Poly1305.
+        </p>
+      </div>
+      <div class="roadmap-item">
+        <h2>GDrive Client in Rust</h2>
+        <p>A GDrive client using FUSE for seamless file management in Rust.</p>
+      </div>
+    </section>
+
+    <!-- projects -->
+
+    <section id="projects">
+      <h1>Our Projects</h1>
+      <div class="projects-container">
+        <!-- Project 1 -->
+        <div class="project">
+          <img
+            src="projects/pr1.png"
+            alt="rencfs encrypted file system in Rust for cloud backups"
+          />
+          <h2>rencfs</h2>
+          <p>
+            An encrypted file system that is mounted with FUSE on Linux. It
+            allows you to create encrypted directories, enabling safe backups on
+            untrusted servers or cloud storage like Google Drive or Dropbox,
+            ensuring data integrity and privacy.
+          </p>
+          <a href="https://github.com/radumarias/rencfs" target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 2 -->
+        <div class="project">
+          <img
+            src="projects/pr14.jpg"
+            alt="rfs distributed file system in Rust"
+          />
+          <h2>rfs</h2>
+          <p>
+            A distributed filesystem written in Rust, designed as a learning and
+            experimental project for building such systems. It offers insights
+            into distributed computing principles and practical implementation
+            challenges.
+          </p>
+          <a href="https://github.com/radumarias/rfs" target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 3 -->
+        <div class="project">
+          <img
+            src="projects/pr2.png"
+            alt="SyncOxiders cloud file sync and encryption in Rust"
+          />
+          <h2>SyncOxiders</h2>
+          <p>
+            A cloud file and email sync, sharing, backup, and encryption
+            solution written in Rust, offering real-time sync between multiple
+            providers. It aims to simplify data management across platforms with
+            a focus on user security and reliability.
+          </p>
+          <a href="https://syncoxide.rs/" target="_blank">Learn More</a>
+        </div>
+
+        <!-- Project 4 -->
+        <div class="project">
+          <img
+            src="projects/pr4.jpg"
+            alt="rencfs-desktop GUI for encrypted file system in Rust"
+          />
+          <h2>rencfs-desktop</h2>
+          <p>
+            A GUI for rencfs, currently working on Linux, with future plans for
+            other platforms. It uses egui for GUI and tonic for gRPC
+            communication, aiming to enhance user experience through an
+            intuitive interface and seamless functionality.
+          </p>
+          <a href="https://github.com/radumarias/rencfs-desktop" target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 5 -->
+        <div class="project">
+          <img
+            src="projects/pr5.jpg"
+            alt="rencfs-daemon encrypted file system daemon in Rust"
+          />
+          <h2>rencfs-daemon</h2>
+          <p>
+            An encrypted file system daemon in Rust that can be installed as a
+            systemd service, exposing a gRPC server for interaction. It is
+            designed for performance and security, providing a reliable
+            background service for encrypted file management.
+          </p>
+          <a href="https://github.com/radumarias/rencfs-daemon" target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 6 -->
+        <div class="project">
+          <img
+            src="projects/pr6.jpg"
+            alt="dbos database-optimized operating system in Rust"
+          />
+          <h2>dbos</h2>
+          <p>
+            An operating system optimized for hosting database systems, designed
+            to run with minimal resources while executing workloads in kernel
+            space. It aims to provide efficient resource utilization and
+            performance for database applications.
+          </p>
+          <a href="https://github.com/radumarias/dbos" target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 7 -->
+        <div class="project">
+          <img
+            src="projects/pr7.png"
+            alt="rencrypt-python Python encryption library in Rust"
+          />
+          <h2>rencrypt-python</h2>
+          <p>
+            A Python encryption library implemented in Rust, supporting various
+            ciphers with optimized speed, particularly for small data chunks.
+            This library focuses on providing fast and secure encryption options
+            for Python developers.
+          </p>
+          <a
+            href="https://github.com/radumarias/rencrypt-python"
+            target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 8 -->
+        <div class="project">
+          <img
+            src="projects/pr8.jpg"
+            alt="zeroize-python secure memory clearing library in Rust"
+          />
+          <h2>zeroize-python</h2>
+          <p>
+            A library for securely clearing secrets from memory, ensuring data
+            is zeroed using stable Rust primitives. It is crucial for protecting
+            sensitive information in memory and preventing data leaks.
+          </p>
+          <a href="https://github.com/radumarias/zeroize-python" target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 9 -->
+        <div class="project">
+          <img
+            src="projects/pr9.jpg"
+            alt="gdrive-rs Google Drive client in Rust using fuse3"
+          />
+          <h2>gdrive-rs</h2>
+          <p>
+            A GDrive client in Rust using fuse3 for easy integration with Google
+            Drive. It simplifies the process of accessing and managing Google
+            Drive files directly from the filesystem, enhancing productivity.
+          </p>
+          <a href="https://github.com/radumarias/gdrive-rs" target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 10 -->
+        <div class="project">
+          <img
+            src="projects/pr10.jpg"
+            alt="rust-fuse3-template basic Rust filesystem template"
+          />
+          <h2>rust-fuse3-template</h2>
+          <p>
+            A template for a Rust project using fuse3, with a basic
+            implementation of a filesystem. It serves as a starting point for
+            developers looking to build custom filesystem solutions in Rust.
+          </p>
+          <a
+            href="https://github.com/radumarias/rust-fuse3-template"
+            target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 11 -->
+        <div class="project">
+          <img
+            src="projects/pr11.jpg"
+            alt="AWS Lambda axum DynamoDB template in Rust"
+          />
+          <h2>aws-lambda-axum-dynamodb-template</h2>
+          <p>
+            A template app utilizing AWS Lambda, axum, DynamoDB, API Gateway,
+            and CloudWatch. This template provides a solid foundation for
+            building serverless applications with Rust and AWS services.
+          </p>
+          <a
+            href="https://github.com/radumarias/aws-lambda-axum-dynamodb-template"
+            target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 12 -->
+        <div class="project">
+          <img
+            src="projects/pr12.jpg"
+            alt="in-mem-fs in-memory filesystem in Rust"
+          />
+          <h2>in-mem-fs</h2>
+          <p>
+            A basic implementation of an in-memory filesystem in Rust exposed
+            with FUSE on Linux. It allows developers to work with files in
+            memory, facilitating fast file operations without persistent storage
+            overhead.
+          </p>
+          <a href="https://github.com/radumarias/in-mem-fs" target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 13 -->
+        <div class="project">
+          <img
+            src="projects/pr13.jpg"
+            alt="python-crypto-benchmark Python cryptographic library performance comparison"
+          />
+          <h2>python-crypto-benchmark</h2>
+          <p>
+            A benchmark of multiple Python crypto libraries to compare
+            performance and efficiency. This project helps developers choose the
+            right libraries for their cryptographic needs based on empirical
+            data.
+          </p>
+          <a
+            href="https://github.com/radumarias/python-crypto-benchmark"
+            target="_blank"
+            >Learn More</a
+          >
+        </div>
+
+        <!-- Project 14 -->
+        <div class="project">
+          <img
+            src="projects/pr14.jpg"
+            alt="Rust Cargo.toml version checker automation tool"
+          />
+          <h2>action-check-version-changed-rust</h2>
+          <p>
+            A tool that checks if the version in Cargo.toml has changed since
+            the last run, useful for automating releases. It streamlines the
+            development process by ensuring version control best practices are
+            followed.
+          </p>
+          <a
+            href="https://github.com/radumarias/action-check-version-changed-rust"
+            target="_blank"
+            >Learn More</a
+          >
+        </div>
+      </div>
+    </section>
+
+    <!-- contact -->
+
+    <section id="contact" class="contact-section">
+      <h1>Contact Us</h1>
+      <div class="contact-container">
+        <div class="details-container">
+          <h2>Get in Touch</h2>
+
+          <p>
+            <i class="fas fa-envelope"></i>
+
+            <strong>DM:</strong> <br />
+            hello@xorio.rs
+          </p>
+          <p>
+            <i class="fas fa-map-marker-alt"></i> <strong>Location:</strong>
+            <br />
+            Romania
+          </p>
+
+          <p>
+            <i class="fab fa-github"></i> <strong>Github:</strong> <br />
+            https://github.com/radumarias
+          </p>
+        </div>
+
+        <div class="map-container">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2841025.742033541!2d25.020108399999998!3d45.9425072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff26958976c3%3A0x84ef4f92a804b194!2sRomania!5e0!3m2!1sen!2sin!4v1727250222392!5m2!1sen!2sin"
+            width="600"
+            height="450"
+            style="border: 0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+      </div>
+
+      <div class="social-icons">
+        <a href="https://github.com/radumarias" target="_blank">
+          <img
+            src="https://img.shields.io/github/stars/radumarias"
+            alt="GitHub Stars"
+          />
+        </a>
+
+        
+
+        <a href="https://user-badge.committers.top/romania/radumarias" target="_blank">
+          <img
+            src="https://user-badge.committers.top/romania/radumarias.svg"
+            alt="Twitter"
+          />
+        </a>
+
+
+        <a href="https://matrix.to/#/@XORIO42:matrix.org" target="_blank">
+          <i class="fa-solid fa-m matrix-icon"></i>  </a>
+
+        <a href="https://x.com/XORIO42" target="_blank">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="40px" height="25px" fill="#2f8f48">
+            <path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z"/>
+          </svg>
+        </a>
+        
+
+        <a href="https://discord.gg/WqRs5w8y" target="_blank">
+          <i class="fa-brands fa-discord"></i>
+        </a>
+
+        <a href="mailto:hello@xorio.rs" target="_blank">
+          <i class="fa-solid fa-envelope"></i>
+        </a>
+       
+        <a href="https://medium.com/@XORIO42" target="_blank">
+          <i class="fa-brands fa-medium"></i>
+         
+        </a>
+
+        <a href=" https://join.slack.com/t/slack-rag8921/shared_invite/zt-2o4l1tdkk-VJeWIbO2p6zgeafDISPHbQ" target="_blank">
+          <i class="fab fa-slack"></i>
+        </a>
+
+        <a href="https://t.me/XORIO42" target="_blank">
+          <i class="fab fa-telegram-plane"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/radumarias" target="_blank">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="https://www.reddit.com/u/XORIO42" target="_blank">
+          <i class="fa-brands fa-reddit"></i>
+        </a>
+      
+      </div>
+    </section>
+    <!-- footer -->
+    <footer>
+      <div class="footer-content">
+        <p>
+          Created by
+          <a href="https://www.linkedin.com/in/mahenoor-salat/" target="_blank"
+            >Mahenoor Salat</a
+          >
+          | <span>XORIO - Rust Language Company</span> | &copy;
+          <span id="current-year"></span> All Rights Reserved
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"
+      integrity="sha512-7eHRwcbYkK4d9g/6tD/mhkf++eoTHwpNM9woBxtPUBWm67zeAfFC+HrdoE2GanKeocly/VxeLvIqwvCdk7qScg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"
+      integrity="sha512-onMTRKJBKz8M1TnqqDuGBlowlH0ohFzMXYRNebz+yOcc5TQr/zAKsthzhuv0hiyUKEiQEQXEynnXCvNTOk50dg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </body>
+</html>
