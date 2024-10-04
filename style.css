@@ -360,6 +360,11 @@ h2{
     padding: 40px 20px;
 }
 
+.contact-section a{
+    text-decoration: none;
+    color: blue;
+}
+
 .contact-section h1 {
     text-align: center;
     font-size: 36px;
@@ -442,12 +447,10 @@ h2{
     transition: transform 0.3s ease;
 }
 
-.social-icons img:nth-child(1),
-.social-icons img:nth-child(2),
-.social-icons img:nth-child(3) {
-    width: 146px;
-    height: 25px;
-    transition: transform 0.3s ease;
+.social-icons img:nth-child(1), .social-icons img:nth-child(2), .social-icons img:nth-child(3) {
+    width: 129px;
+    height: 19px;
+    transition: transform 0.3s;
 }
 
 .social-icons img:hover {
