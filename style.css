@@ -59,6 +59,7 @@ nav {
 .theme-toggle i {
     font-size: 2rem;
     /* Adjust size as needed */
+    cursor: pointer;
 }
 
 .logo img {
@@ -442,11 +443,9 @@ h2{
     transition: transform 0.3s ease;
 }
 
-.social-icons img:nth-child(1),
-.social-icons img:nth-child(2),
-.social-icons img:nth-child(3) {
-    width: 146px;
-    height: 25px;
+.social-icons img:nth-child(1), .social-icons img:nth-child(2), .social-icons img:nth-child(3) {
+    width: 107px;
+    height: 20px;
     transition: transform 0.3s ease;
 }
 
@@ -472,7 +471,7 @@ h2{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 73px;
 }
 
 
@@ -525,6 +524,10 @@ h2{
     height: auto;
 }
 
+.a{
+    color: white;
+    text-decoration: none;
+}
 
 .scroll-to-top {
     z-index: 1075;

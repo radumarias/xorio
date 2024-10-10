@@ -1,6 +1,7 @@
 const menu = document.querySelector(".menu");
 const navbar = document.querySelector(".navbar ul");
 
+
 menu.addEventListener('click', () => {
     menu.classList.toggle('active');
     navbar.classList.toggle('display');
@@ -22,6 +23,7 @@ const Input = document.querySelectorAll("form input");
 const Textarea = document.querySelector("form textarea");
 const footer = document.querySelector("footer");
 const Status = document.querySelector('#Status h1 span a')
+const a = document.querySelectorAll('.a');
 
 themeToggleButton.addEventListener('click', function () {
     body.classList.toggle('dark-mode');
@@ -32,7 +34,9 @@ themeToggleButton.addEventListener('click', function () {
         body.style.backgroundColor = 'black';
         body.style.color = 'white';
         Info.style.color = "white";
-
+        a.forEach(href => {
+            href.style.color = "white"
+        })
         serviceBoxes.forEach(service => {
             service.style.backgroundColor = "#121212";
             service.style.color = "white";
@@ -67,14 +71,14 @@ themeToggleButton.addEventListener('click', function () {
         icon.classList.remove('fa-moon');
         icon.classList.add('fa-sun');
         icon.style.color = "white"
-    } 
-    
-    
-    
-    
-    
-    
-    
+    }
+
+
+
+
+
+
+
     else {
         // Light mode styles
         nav.style.backgroundColor = "white";
@@ -86,7 +90,9 @@ themeToggleButton.addEventListener('click', function () {
             service.style.backgroundColor = "white";
             service.style.color = "#121212";
         });
-
+        a.forEach(href => {
+            href.style.color = "black"
+        })
         TextContainer.forEach(text => {
             text.style.color = "black";
         });
@@ -107,7 +113,7 @@ themeToggleButton.addEventListener('click', function () {
 
         roadmapItem.forEach(item => {
             item.style.backgroundColor = "#";
-            item.style.color = "#333333"; 
+            item.style.color = "#333333";
         });
 
         Status.style.color = "blue";
@@ -129,27 +135,27 @@ yearElement.textContent = today.getFullYear();
 document.addEventListener("DOMContentLoaded", () => {
     gsap.from("#about", {
         transform: "translateX(-100%)",
-        y: -100,       
-        opacity: 0,   
-        duration: 0.6,   
+        y: -100,
+        opacity: 0,
+        duration: 0.6,
         scrollTrigger: {
             trigger: "#about",
-            start: "top 80%", 
-            end: "top 30%",   
-            scrub: 1,        
+            start: "top 80%",
+            end: "top 30%",
+            scrub: 1,
         }
     });
 
     gsap.from("#roadmap", {
         transform: "translateX(-100%)",
-        y: -100,       
-        opacity: 0,   
-        duration: 0.6,   
+        y: -100,
+        opacity: 0,
+        duration: 0.6,
         scrollTrigger: {
             trigger: "#about",
-            start: "top 80%", 
-            end: "top 30%",   
-            scrub: 1,        
+            start: "top 80%",
+            end: "top 30%",
+            scrub: 1,
         }
     });
 
