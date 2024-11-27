@@ -1,3 +1,6 @@
+
+
+
 * {
     margin: 0;
     padding: 0;
@@ -9,9 +12,10 @@ body {
     height: 100vh;
     width: 100%;
     overflow-x: hidden;
-    background-color: #121212;
-    color: #e0e0e0;
+    background: radial-gradient(circle at center, rgb(49 83 48) 0%, rgb(0 0 0) 36%);
+    color: white;
 }
+
 
 body,
 html {
@@ -43,17 +47,15 @@ html {
 /* --navbar-section */
 
 nav {
-    color: #4caf50;
-    background: #1f1f1f;
-    padding: 1px 50px;
+    padding: 1rem 5%;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: absolute;
     top: 0;
     width: 100%;
     z-index: 1000;
-    transition: background 0.3s;
-    position: fixed;
+    border-bottom: 1px solid rgba(76, 175, 80, 0.1);
 }
 
 .theme-toggle i {
@@ -170,27 +172,26 @@ nav:hover {
 /* --home-section */
 
 #home {
-    background-attachment: fixed;
-    overflow: hidden;
-    background-image: url(home.png);
     height: 100vh;
-    width: 100vw;
-    background-repeat: no-repeat;
+    position: relative;
+    background:  
+                url(home.png);
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index: 0;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 #home::before {
-    content: "";
+    content: '';
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(18, 18, 18, 0.7);
-    z-index: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .btn {
@@ -725,6 +726,10 @@ iframe {
 
 /* --media-queries */
 @media (max-width: 900px) {
+
+    .globe img{
+        width: 80%;
+    }
     .custom-text-section .custom-paragraph {
         font-size: 12px;
         line-height: 1.6;
@@ -798,7 +803,7 @@ iframe {
 
     nav {
         color: #4caf50;
-        background: #1f1f1f;
+        backdrop-filter: blur(12px);
         padding: 1px 50px;
         display: flex;
         justify-content: space-between;
