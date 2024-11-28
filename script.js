@@ -27,10 +27,11 @@ const a = document.querySelectorAll('.a');
 
 themeToggleButton.addEventListener('click', function () {
     body.classList.toggle('dark-mode');
-// --dark-mode
-    if (body.classList.contains('dark-mode')) {
 
-        body.style.background = 'radial-gradient(circle at center, rgb(49 83 48) 0%, rgb(0 0 0) 36%)';
+    if (body.classList.contains('dark-mode')) {
+        // Dark mode styles
+        nav.style.backgroundColor = "black";
+        body.style.backgroundColor = 'black';
         body.style.color = 'white';
         Info.style.color = "white";
         a.forEach(href => {
@@ -79,8 +80,9 @@ themeToggleButton.addEventListener('click', function () {
 
 
     else {
-// --light-mode
-        body.style.background = 'radial-gradient(circle, rgb(76 203 73 / 37%) 0%, rgb(255, 255, 255) 27%)';
+        // Light mode styles
+        nav.style.backgroundColor = "white";
+        body.style.backgroundColor = 'white';
         body.style.color = 'black';
         Info.style.color = "black";
 
