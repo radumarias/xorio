@@ -1,14 +1,14 @@
-# Xorio: Empowering Your Vision with Expert Rust Development
+# xorio: Empowering Your Vision with Expert Rust Development
 
-![Xorio Banner](https://images.pexels.com/photos/1662159/pexels-photo-1662159.jpeg?auto=compress&cs=tinysrgb&w=600)
+![xorio Banner](https://images.pexels.com/photos/1662159/pexels-photo-1662159.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 ## Home
 
-Welcome to Xorio! We specialize in innovative, open-source solutions built on the power of Rust, the fastest-growing programming language. Our mission is to empower your vision by delivering efficient, high-performance, and scalable applications tailored to your needs.
+Welcome to xorio! We specialize in innovative, open-source solutions built on the power of Rust, the fastest-growing programming language. Our mission is to empower your vision by delivering efficient, high-performance, and scalable applications tailored to your needs.
 
 ## About
 
-At Xorio, we take pride in our expertise in Rust development. Our team is led by Romania's #1 Rust developer and the 5th most active GitHub user in the country. We focus on creating cutting-edge projects that push the boundaries of open-source development. Our commitment to collaboration and transparency drives us to deliver solutions that meet and exceed client expectations. With Xorio, you partner with a passionate team dedicated to quality and innovation.
+At xorio, we take pride in our expertise in Rust development. Our team is led by Romania's #1 Rust developer and the 5th most active GitHub user in the country. We focus on creating cutting-edge projects that push the boundaries of open-source development. Our commitment to collaboration and transparency drives us to deliver solutions that meet and exceed client expectations. With xorio, you partner with a passionate team dedicated to quality and innovation.
 
 ## Services
 
@@ -19,7 +19,7 @@ At Xorio, we take pride in our expertise in Rust development. Our team is led by
 
 ## Open Source
 
-At Xorio, we are dedicated to open-source development. We actively contribute to various projects and encourage collaboration within the community. Our focus on transparency ensures that our solutions are accessible and beneficial to all.
+At xorio, we are dedicated to open-source development. We actively contribute to various projects and encourage collaboration within the community. Our focus on transparency ensures that our solutions are accessible and beneficial to all.
 
 ## GitHub Status
 
@@ -34,8 +34,8 @@ We'd love to hear from you! For inquiries, collaborations, or any questions, ple
 
 ## Footer
 
-Thank you for visiting Xorio! We look forward to partnering with you on your next project. Together, we can build something extraordinary!
+Thank you for visiting xorio! We look forward to partnering with you on your next project. Together, we can build something extraordinary!
 
 ---
 
-*This README.md was generated for the Xorio website project. For more information, please visit our website [Xorio](https://xorio.rs).*
+*This README.md was generated for the xorio website project. For more information, please visit our website [xorio](https://xorio.rs).*
