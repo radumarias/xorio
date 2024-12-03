@@ -40,7 +40,7 @@ Thank you for visiting xorio! We look forward to partnering with you on your nex
 
 *This README.md was generated for the xorio website project. For more information, please visit our website [xorio](https://xorio.rs).*
 
-## Stats Available
+## Stats
 
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=radumarias&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
