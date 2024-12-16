@@ -42,6 +42,7 @@ Thank you for visiting xorio! We look forward to partnering with you on your nex
 
 ## Stats
 
+[![committers.top badge](https://user-badge.committers.top/romania/radumarias.svg)](https://user-badge.committers.top/romania/radumarias)
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=radumarias&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=radumarias&theme=vue-dark&hide_border=true' />
